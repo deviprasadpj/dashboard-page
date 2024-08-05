@@ -1,0 +1,14 @@
+.sidebar-list-container {
+    padding: 0px;
+    list-style-type: none;
+}
+
+.sidebar-list-item {
+    padding: 12px 12px 12px 12px;
+    font-size: 18px;
+}
+
+.sidebar {
+    flex: 1;
+    background-color : #ffffff;
+}
